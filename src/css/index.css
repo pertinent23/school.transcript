@@ -1,0 +1,9 @@
+.content-uy1-logo{
+    height: 100px;
+    width: 80px;
+}
+
+.content-state-data span:nth-child( 1 ),
+.content-state-data span:nth-child( 4 ) {
+    font-weight: bold;
+}
